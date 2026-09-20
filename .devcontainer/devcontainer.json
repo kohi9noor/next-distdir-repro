@@ -1,0 +1,7 @@
+{
+  "name": "Next.js distDir Repro",
+  "image": "oven/bun:latest",
+  "workspaceFolder": "/workspace",
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+  "remoteUser": "root"
+}
